@@ -105,6 +105,7 @@ namespace Sudoku_console
                     if (board[i, j] == 0 || (tracker.Where(t => t.Item1 == i && t.Item2 == j).Count() != 0))
                     {
                         bool jugg = true;
+                        bool refil = false;
                         int num;
 
                         if (board[i, j] == 0)
@@ -136,7 +137,8 @@ namespace Sudoku_console
                                     (int, int, int) track = tracker.Pop();
                                     i = track.Item1;
                                     j = track.Item2;
-                                    board[i , j] = track.Item3 + 1;          
+                                    board[i , j] = track.Item3 + 1;    
+                                    refil = true;      
                                                 
                                     break;
                                 }
@@ -153,6 +155,11 @@ namespace Sudoku_console
 
                         // After we fill the number successfully, we record the value of i, j and num.
                         tracker.Push((i, j, board[i, j]));
+                        
+                        if (refil)
+                        {
+                            j--;
+                        }
                     } 
                 }
             }
