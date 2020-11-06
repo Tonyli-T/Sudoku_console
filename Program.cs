@@ -158,60 +158,12 @@ namespace Sudoku_console
             }
         }
 
-        private static int _NumOfPresets;
-        private static Stack<(int, int, int)> Solve(Stack<(int, int, int)> context) 
-        {
-            var (nextI, nextJ) = GetNextCellCoord(context);
-            if (nextI == -1 || nextJ == -1)
-            {
-                
-            }
-            if (CheckRow(context) && CheckColumn(context) && CheckSquare(context))
-            {
-                // Solve(context.);
-            }
-
-
-            throw new NotImplementedException();
-        }
-        private static (int, int) GetNextCellCoord(Stack<(int, int, int)> context)
-        {
-            for (int j = 0; j < 9; j++)
-            {
-                for (int i = 0; i < 9; i++)
-                {
-                    if (context.Any(t => t.Item1 == i && t.Item2 == j))
-                    {
-                        continue;
-                    }
-                    else
-                    {
-                        return (i, j);
-                    }
-                }
-            }
-            
-            return (-1, -1);
-        }
-        private static bool CheckColumn(Stack<(int, int, int)> context)
-        {
-            throw new NotImplementedException();
-        }
-
-        private static bool CheckRow(Stack<(int, int, int)> context)
-        {
-            throw new NotImplementedException();
-        }
-        private static bool CheckSquare(Stack<(int, int, int)> context)
-        {
-            throw new NotImplementedException();
-        }
-
         static void Main(string[] args)
         {
             var board = build();
             print(board);
-            solve(board);
+            AltSolver.Solve(board);
+            //solve(board);
             print(board);
         }
     }
