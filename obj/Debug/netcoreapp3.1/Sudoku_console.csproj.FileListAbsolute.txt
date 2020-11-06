@@ -11,3 +11,16 @@ C:\Users\lyzpp\OneDrive\Documents\Projects\Sudoku_console\obj\Debug\netcoreapp3.
 C:\Users\lyzpp\OneDrive\Documents\Projects\Sudoku_console\obj\Debug\netcoreapp3.1\Sudoku_console.dll
 C:\Users\lyzpp\OneDrive\Documents\Projects\Sudoku_console\obj\Debug\netcoreapp3.1\Sudoku_console.pdb
 C:\Users\lyzpp\OneDrive\Documents\Projects\Sudoku_console\obj\Debug\netcoreapp3.1\Sudoku_console.genruntimeconfig.cache
+C:\Users\yisha.000\Source\Repos\Sudoku_console\obj\Debug\netcoreapp3.1\Sudoku_console.csprojAssemblyReference.cache
+C:\Users\yisha.000\Source\Repos\Sudoku_console\obj\Debug\netcoreapp3.1\Sudoku_console.AssemblyInfoInputs.cache
+C:\Users\yisha.000\Source\Repos\Sudoku_console\obj\Debug\netcoreapp3.1\Sudoku_console.AssemblyInfo.cs
+C:\Users\yisha.000\Source\Repos\Sudoku_console\obj\Debug\netcoreapp3.1\Sudoku_console.csproj.CoreCompileInputs.cache
+C:\Users\yisha.000\Source\Repos\Sudoku_console\obj\Debug\netcoreapp3.1\Sudoku_console.dll
+C:\Users\yisha.000\Source\Repos\Sudoku_console\obj\Debug\netcoreapp3.1\Sudoku_console.pdb
+C:\Users\yisha.000\Source\Repos\Sudoku_console\bin\Debug\netcoreapp3.1\Sudoku_console.exe
+C:\Users\yisha.000\Source\Repos\Sudoku_console\bin\Debug\netcoreapp3.1\Sudoku_console.deps.json
+C:\Users\yisha.000\Source\Repos\Sudoku_console\bin\Debug\netcoreapp3.1\Sudoku_console.runtimeconfig.json
+C:\Users\yisha.000\Source\Repos\Sudoku_console\bin\Debug\netcoreapp3.1\Sudoku_console.runtimeconfig.dev.json
+C:\Users\yisha.000\Source\Repos\Sudoku_console\bin\Debug\netcoreapp3.1\Sudoku_console.dll
+C:\Users\yisha.000\Source\Repos\Sudoku_console\bin\Debug\netcoreapp3.1\Sudoku_console.pdb
+C:\Users\yisha.000\Source\Repos\Sudoku_console\obj\Debug\netcoreapp3.1\Sudoku_console.genruntimeconfig.cache

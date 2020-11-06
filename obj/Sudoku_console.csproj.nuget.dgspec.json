@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lyzpp\\OneDrive\\Documents\\Projects\\Sudoku_console\\Sudoku_console.csproj": {}
+    "C:\\Users\\yisha.000\\source\\repos\\Sudoku_console\\Sudoku_console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lyzpp\\OneDrive\\Documents\\Projects\\Sudoku_console\\Sudoku_console.csproj": {
+    "C:\\Users\\yisha.000\\source\\repos\\Sudoku_console\\Sudoku_console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lyzpp\\OneDrive\\Documents\\Projects\\Sudoku_console\\Sudoku_console.csproj",
+        "projectUniqueName": "C:\\Users\\yisha.000\\source\\repos\\Sudoku_console\\Sudoku_console.csproj",
         "projectName": "Sudoku_console",
-        "projectPath": "C:\\Users\\lyzpp\\OneDrive\\Documents\\Projects\\Sudoku_console\\Sudoku_console.csproj",
-        "packagesPath": "C:\\Users\\lyzpp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lyzpp\\OneDrive\\Documents\\Projects\\Sudoku_console\\obj\\",
+        "projectPath": "C:\\Users\\yisha.000\\source\\repos\\Sudoku_console\\Sudoku_console.csproj",
+        "packagesPath": "C:\\Users\\yisha.000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yisha.000\\source\\repos\\Sudoku_console\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lyzpp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yisha.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\yisha.000\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
