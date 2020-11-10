@@ -1,3 +1,3 @@
 # Sudoku_console
 
-hey, this is a sudoku solver app.
+Hey, this is a sudoku solver app.

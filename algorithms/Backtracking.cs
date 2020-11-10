@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace Sudoku_console
 {
-	static class AltSolver
+	static class BSolver
 	{
 		public static Stack<(int, int, int)> Init(int[,] board)
 		{

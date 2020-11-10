@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yisha.000\\source\\repos\\Sudoku_console\\Sudoku_console.csproj": {}
+    "/Users/zhou/Desktop/Projects/SudokuConsole/Sudoku_console/Sudoku_console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yisha.000\\source\\repos\\Sudoku_console\\Sudoku_console.csproj": {
+    "/Users/zhou/Desktop/Projects/SudokuConsole/Sudoku_console/Sudoku_console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yisha.000\\source\\repos\\Sudoku_console\\Sudoku_console.csproj",
+        "projectUniqueName": "/Users/zhou/Desktop/Projects/SudokuConsole/Sudoku_console/Sudoku_console.csproj",
         "projectName": "Sudoku_console",
-        "projectPath": "C:\\Users\\yisha.000\\source\\repos\\Sudoku_console\\Sudoku_console.csproj",
-        "packagesPath": "C:\\Users\\yisha.000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yisha.000\\source\\repos\\Sudoku_console\\obj\\",
+        "projectPath": "/Users/zhou/Desktop/Projects/SudokuConsole/Sudoku_console/Sudoku_console.csproj",
+        "packagesPath": "/Users/zhou/.nuget/packages/",
+        "outputPath": "/Users/zhou/Desktop/Projects/SudokuConsole/Sudoku_console/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yisha.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/zhou/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\yisha.000\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
         }
       }
     }
